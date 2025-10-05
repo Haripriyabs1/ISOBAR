@@ -61,9 +61,3 @@ We’re currently expanding EventSafe with:
 “Leveraging space data to safeguard life on Earth — one event at a time.”
 
 EventSafe envisions a future where AI and NASA’s vast data network collaborate to prevent weather-related disasters, optimize event planning, and enhance sustainability.
-
-If you want, I can also:
-
-📝 write a professional GitHub README version of this (formatted with badges, demo link, and credits)
-
-💻 or a project description paragraph specifically for your NASA Hackathon submission portal
